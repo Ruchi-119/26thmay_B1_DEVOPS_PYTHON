@@ -65,5 +65,5 @@ elif user_choice=='7':
     devices = devices.decode('ascii')
     devices= devices.replace("\r","")
     print(devices)
-elif user_input== '8':
+elif user_choice== '8':
     os.system('python task1.py')
